@@ -12,7 +12,7 @@
 
 ## Utilização do Excel para criar e realizar análise gráfica
 
-- _Link para arquivo excel_
+- [Arquivo com os dados](https://github.com/SouzaGabriel26/calculo_algoritmos_de_ordenacao/blob/master/algoritmos.xlsx)
 
 ## Biblioteca para construção de gráficos no JavaScript:
 
@@ -20,7 +20,7 @@
 
 ## Os algoritmos de ordenação estão todos na pasta algoritmosOrdenacao
 
-- _link para pasta_
+- [algoritmosOrdenacao](https://github.com/SouzaGabriel26/calculo_algoritmos_de_ordenacao/tree/master/js/algoritmosOrdenacao)
 
 ## A implementação e tempo de execução dos algoritmos:
 
