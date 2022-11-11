@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="../css/index.css" />
+    <title>Trabalho</title>
+  </head>
+  <body>
+    <header class="header">
+      <h1>Análise de algoritmos de ordenação</h1>
+      <nav>
+        <ul>
+          <li>
+            <a href="./algoritmos.xlsx" download>Baixar dados no Excel</a>
+          </li>
+          <li>
+            <a href="./calcs" target="_blank">Complexidade computacional</a>
+          </li>
+        </ul>
+      </nav>
+    </header>
+
+    <main>
+      <div class="container">
+        <div class="grafico">
+          <h2 class="descricao">
+            Vetor de 100 elementos ordenados aleatoriamente
+          </h2>
+          <canvas height="300" width="500" id="chart100aleatorio"></canvas>
+        </div>
+
+        <div class="grafico">
+          <h2 class="descricao">
+            Vetor de 100 elementos ordenados crescentemente
+          </h2>
+          <canvas height="300" width="500" id="chart100ordenado"></canvas>
+        </div>
+
+        <div class="grafico">
+          <h2 class="descricao">
+            Vetor de 100 elementos ordenados decrescentemente
+          </h2>
+          <canvas height="300" width="500" id="chart100decre"></canvas>
+        </div>
+
+        <div class="grafico">
+          <h2 class="descricao">
+            Vetor de 1000 elementos ordenados aleatoriamente
+          </h2>
+          <canvas height="300" width="500" id="chart1000aleatorio"></canvas>
+        </div>
+
+        <div class="grafico">
+          <h2 class="descricao">
+            Vetor de 1000 elementos ordenados crescentemente
+          </h2>
+          <canvas height="300" width="500" id="chart1000ordenado"></canvas>
+        </div>
+
+        <div class="grafico">
+          <h2 class="descricao">
+            Vetor de 1000 elementos ordenados decrescentemente
+          </h2>
+          <canvas height="300" width="500" id="chart1000decre"></canvas>
+        </div>
+
+        <div class="grafico">
+          <h2 class="descricao">
+            Vetor de 10000 elementos ordenados aleatoriamente
+          </h2>
+          <canvas height="300" width="500" id="chart10000aleatorio"></canvas>
+        </div>
+
+        <div class="grafico">
+          <h2 class="descricao">
+            Vetor de 10000 elementos ordenados crescentemente
+          </h2>
+          <canvas height="300" width="500" id="chart10000ordenado"></canvas>
+        </div>
+
+        <div class="grafico">
+          <h2 class="descricao">
+            Vetor de 10000 elementos ordenados decrescentemente
+          </h2>
+          <canvas height="300" width="500" id="chart10000decre"></canvas>
+        </div>
+
+        <div class="grafico">
+          <h2 class="descricao">
+            Vetor de 100000 elementos ordenados aleatoriamente
+          </h2>
+          <canvas height="300" width="500" id="chart100000aleatorio"></canvas>
+        </div>
+
+        <div class="grafico">
+          <h2 class="descricao">
+            Vetor de 100000 elementos ordenados crescentemente
+          </h2>
+          <canvas height="300" width="500" id="chart100000ordenado"></canvas>
+        </div>
+
+        <div class="grafico">
+          <h2 class="descricao">
+            Vetor de 100000 elementos ordenados decrescentemente
+          </h2>
+          <canvas height="300" width="500" id="chart100000decre"></canvas>
+        </div>
+
+        <div class="grafico">
+          <h2 class="descricao">
+            Vetor de 1000000 elementos ordenados aleatoriamente
+          </h2>
+          <canvas height="300" width="500" id="chart1000000aleatorio"></canvas>
+        </div>
+
+        <div class="grafico">
+          <h2 class="descricao">
+            Vetor de 100000 elementos ordenados crescentemente
+          </h2>
+          <canvas height="300" width="500" id="chart1000000order"></canvas>
+        </div>
+
+        <div class="grafico">
+          <h2 class="descricao">
+            Vetor de 100000 elementos ordenados decrescentemente
+          </h2>
+          <canvas height="300" width="500" id="chart1000000decre"></canvas>
+        </div>
+      </div>
+    </main>
+
+    <footer>
+      <p>
+        Feito por
+        <a
+          href="https://www.linkedin.com/in/gabriel-alves-73860a1ab/"
+          target="_blank"
+          >Gabriel Alves</a
+        >
+      </p>
+    </footer>
+
+    <script src="./node_modules/chart.js/dist/chart.js"></script>
+    <script src="./js/charts.js"></script>
+  </body>
+</html>
