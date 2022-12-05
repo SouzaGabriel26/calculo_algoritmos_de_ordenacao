@@ -1,7 +1,7 @@
 # Trabalho de Pesquisa e Ornedação
 
 ## _Algoritmos de Ordenação e Calculo do custo computacional_
-[Ver deploy da aplicação](https://calculo-algoritmos-ordenacao.herokuapp.com/)
+[Ver deploy da aplicação]()
 
 <br>
 
@@ -25,7 +25,7 @@
 
 ## A implementação e tempo de execução dos algoritmos:
 
-- _link para pasta_
+- [implementacao](https://github.com/SouzaGabriel26/calculo_algoritmos_de_ordenacao/tree/master/js/implementacao)
 - A contagem do tempo de execução de cada algoritmo foi feita pelo método [console.time()](https://developer.mozilla.org/en-US/docs/Web/API/console/time)
 - Foram executados manualmente cada algoritmo e anotado o tempo
 - Função para gerar os vetores aleatorios, ordenados e ordenados inversamente (_link pra função_)
