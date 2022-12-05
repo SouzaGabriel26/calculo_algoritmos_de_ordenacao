@@ -2,9 +2,6 @@
   "name": "calculo_algoritmos_de_ordenacao",
   "version": 2,
   "public": true,
-  "build":  {
-    "use": "@vercel/node"
-  },
   "routes": [
     {
       "src": "/(.*)",
