@@ -1,7 +1,7 @@
 # Trabalho de Pesquisa e Ornedação
 
 ## _Algoritmos de Ordenação e Calculo do custo computacional_
-[Ver deploy da aplicação](https://calculo-algoritmos-ordenacao.herokuapp.com/)
+[Ver deploy da aplicação]()
 
 <br>
 
