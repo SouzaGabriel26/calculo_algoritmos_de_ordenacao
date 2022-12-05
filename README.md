@@ -43,7 +43,7 @@ console.timeEnd("#bubbleSort")
 
 ## Função para gerar números aleatórios em arrays(randomGenerate):
 
-- _link para arquivo_
+- [randomGenerate](https://github.com/SouzaGabriel26/calculo_algoritmos_de_ordenacao/blob/master/js/randomNumbers/randomNumberGenerator.js)
 - Parâmetros:
 
   - Array: passa o array que quer gerar os números;
