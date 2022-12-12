@@ -2,7 +2,7 @@ const insertionSort = require("../algoritmosOrdenacao/insertionSort")
 const randomGenerate = require("../randomNumbers/randomNumberGenerator")
 
 // let array100 = []
-// randomGenerate(array100, 100, "desc")
+// randomGenerate(array100, 100, "random")
 // console.time("#insertion")
 // insertionSort(array100)
 // console.timeEnd("#insertion")
