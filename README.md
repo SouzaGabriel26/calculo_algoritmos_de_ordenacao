@@ -1,7 +1,7 @@
 # Trabalho de Pesquisa e Ornedação
 
 ## _Algoritmos de Ordenação e Calculo do custo computacional_
-[Ver deploy da aplicação](https://calculoalgoritmosdeordenacao-production.up.railway.app/)
+[Ver deploy da aplicação](https://calculo-algoritmos-de-ordenacao.onrender.com/)
 
 <br>
 
